@@ -3,7 +3,7 @@ export default {
     show: true,
     slug: 'archviz-visualization',
     link: '/project/archviz-visualization',
-    cardImage: '/images/UE_Dubai/Archviz.png',
+    cardImage: 'images/UE_Dubai/Archviz.png',
     title: 'ArchViz & Interactive Interior Visualization' ,
     role: 'VR Developer',
     types: ['VR Walkthrough', 'Visualization', 'Unreal Engine'],
@@ -16,13 +16,13 @@ export default {
     citation:'',
     mainArt: {
       type: 'image',
-      src: '/images/UE_Dubai/Archviz.png',
+      src: 'images/UE_Dubai/Archviz.png',
       alt: 'Dubai Apartment Visualization',
       // description: '<a href="https://drive.google.com/drive/folders/1KX1zORN5uA7MWT8IxcBJK8I0O87kaARy?usp=sharing" target="_blank" rel="noopener noreferrer" class="drive-link" title="Archviz Model"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg><span class="drive-link-text">Archviz Model</span></a>'
     },
     secondaryArt: {
       type: 'video',
-        src: '/images/UE_Dubai/Interior_Design.mp4',
+        src: 'images/UE_Dubai/Interior_Design.mp4',
         alt: 'Interior Design Walkthrough',
         // description: '',
         topText: '',
@@ -68,19 +68,19 @@ export default {
     gallery: [
       {
         type: 'image',
-        src: '/images/UE_Dubai/BathRoom.png',
+        src: 'images/UE_Dubai/BathRoom.png',
         alt: 'Bathroom',
         bottomText: 'Modern Sanctuary'
       },
       {
         type: 'image',
-        src: '/images/UE_Dubai/Hall.png',
+        src: 'images/UE_Dubai/Hall.png',
         alt: 'Hall',
         bottomText: 'Grand Entrance'
       },
       {
         type: 'image',
-        src: '/images/UE_Dubai/pic.png',
+        src: 'images/UE_Dubai/pic.png',
         alt: 'Pic',
         bottomText: 'Virtual Living'
       }

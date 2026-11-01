@@ -18,7 +18,7 @@
         </a>
       </li>
       <li>
-        <a href="/images/Vyshak.pdf" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Resume">
+        <a href="images/Vyshak.pdf" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Resume">
           <i class="fa-solid fa-file-lines"></i>
         </a>
       </li>

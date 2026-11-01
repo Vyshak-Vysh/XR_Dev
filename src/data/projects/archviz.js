@@ -3,7 +3,7 @@ export default {
     show: true,
     slug: 'ranwin-inspection',
     link: '/project/ranwin-inspection',
-    cardImage: '/images/Ranwin_project/AR inspection in industrial settings.png',
+    cardImage: 'images/Ranwin_project/AR inspection in industrial settings.png',
     title: 'Ranwin Industrial AR Inspection Project' ,
     role: 'AR Developer',
     types: ['Industrial AR', 'Large-Scale Assets', 'Unity'],
@@ -16,7 +16,7 @@ export default {
     citation:'',
     mainArt: {
       type: 'image',
-      src: '/images/Ranwin_project/AR inspection in industrial settings.png',
+      src: 'images/Ranwin_project/AR inspection in industrial settings.png',
       alt: 'AR inspection in industrial settings',
       // description: '<a href="https://drive.google.com/drive/folders/1in1VB_mX_nyk0GXawjRvd05TmbSKCNrw?usp=sharing" target="_blank" rel="noopener noreferrer" class="drive-link" title="Industrial Iron beam Inspection"><svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg><span class="drive-link-text">Industrial Iron beam Inspection</span></a>'
     },

@@ -6,12 +6,12 @@ export default {
   title: 'Low-Poly 3D Asset Design',
   role: '3D Artist | Game & XR Asset Creation',
   types: ['Blender'],
-  cardImage: '/images/Blender_prj/Blender_pic.png', // Placeholder image
+  cardImage: 'images/Blender_prj/Blender_pic.png', // Placeholder image
   shortDescription: 'A collection of original low-poly 3D assets designed and modeled in Blender, suitable for games, AR/VR, and real-time environments.',
   tags: ['Blender', 'Low-Poly', '3D Modeling', 'Game Assets'],
   mainArt: {
     type: 'image',
-    src: '/images/Blender_prj/Blender_pic.png', // Placeholder image
+    src: 'images/Blender_prj/Blender_pic.png', // Placeholder image
     alt: 'Low-Poly 3D Asset Design',
     description: ''
   },
@@ -50,63 +50,63 @@ export default {
   gallery: [
     {
       type: 'image',
-      src: '/images/Blender_prj/Axe01.png',
+      src: 'images/Blender_prj/Axe01.png',
       alt: 'Axe 01',
       topText: '',
       bottomText: 'Stylized Axe Weapon'
     },
     {
       type: 'image',
-      src: '/images/Blender_prj/Axe03.png',
+      src: 'images/Blender_prj/Axe03.png',
       alt: 'Axe 03',
       topText: '',
       bottomText: 'Stylized Axe Weapon'
     },
     {
       type: 'image',
-      src: '/images/Blender_prj/Blender_p1.png',
+      src: 'images/Blender_prj/Blender_p1.png',
       alt: 'Blender Project 1',
       topText: '',
       bottomText: 'Blender Project Asset'
     },
     {
       type: 'image',
-      src: '/images/Blender_prj/Dungeon002.png',
+      src: 'images/Blender_prj/Dungeon002.png',
       alt: 'Dungeon Asset 02',
       topText: '',
       bottomText: 'Modular Dungeon Environment'
     },
     {
       type: 'image',
-      src: '/images/Blender_prj/Dungeon005.png',
+      src: 'images/Blender_prj/Dungeon005.png',
       alt: 'Dungeon Asset 05',
       topText: '',
       bottomText: 'Modular Dungeon Environment'
     },
     {
       type: 'image',
-      src: '/images/Blender_prj/Dungeon006.png',
+      src: 'images/Blender_prj/Dungeon006.png',
       alt: 'Dungeon Asset 06',
       topText: '',
       bottomText: 'Modular Dungeon Environment'
     },
     {
       type: 'image',
-      src: '/images/Blender_prj/Dungeon008.png',
+      src: 'images/Blender_prj/Dungeon008.png',
       alt: 'Dungeon Asset 08',
       topText: '',
       bottomText: 'Modular Dungeon Environment'
     },
     {
       type: 'image',
-      src: '/images/Blender_prj/lighthouse02.png',
+      src: 'images/Blender_prj/lighthouse02.png',
       alt: 'Lighthouse 02',
       topText: '',
       bottomText: 'Low-Poly Lighthouse'
     },
     {
       type: 'image',
-      src: '/images/Blender_prj/lighthouse04.png',
+      src: 'images/Blender_prj/lighthouse04.png',
       alt: 'Lighthouse 04',
       topText: '',
       bottomText: 'Low-Poly Lighthouse'

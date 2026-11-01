@@ -3,7 +3,7 @@ export default {
     show: true,
     slug: 'metaverse-nft',
     link: '/project/metaverse-nft',
-    cardImage: '/images/UE_Meta/NFT_pic.png',
+    cardImage: 'images/UE_Meta/NFT_pic.png',
     title: 'Metaverse & Virtual Interaction Projects' ,
     role: 'XR Developer',
     types: ['Metaverse', 'NFT Integration', 'Unreal Engine'],
@@ -16,7 +16,7 @@ export default {
     externalLinkTitle: 'Industrial Iron beam Inspection',
     mainArt: {
       type: 'image',
-      src: '/images/UE_Meta/NFT_pic.png',
+      src: 'images/UE_Meta/NFT_pic.png',
       alt: 'Metaverse Environment',
       description: ''
     },
@@ -60,7 +60,7 @@ export default {
     gallery: [
       {
         type: 'video',
-        src: '/images/UE_Meta/Minimap.mp4',
+        src: 'images/UE_Meta/Minimap.mp4',
         alt: 'Minimap in Metaverse',
         topText: '',
         bottomText: 'Minimap functionality',
@@ -71,7 +71,7 @@ export default {
       },
       {
         type: 'video',
-        src: '/images/UE_Meta/MultiVision.mp4',
+        src: 'images/UE_Meta/MultiVision.mp4',
         alt: 'MultiVision in Metaverse',
         topText: '',
         bottomText: 'MultiVision feature',
@@ -82,7 +82,7 @@ export default {
       },
       {
         type: 'video',
-        src: '/images/UE_Meta/NFT Wallet.mp4', // Assuming NFT_pic.mp4 is the correct file for NFT Wallet
+        src: 'images/UE_Meta/NFT Wallet.mp4', // Assuming NFT_pic.mp4 is the correct file for NFT Wallet
         alt: 'NFT Wallet Interaction',
         topText: '',
         bottomText: 'NFT Wallet and transaction system',
@@ -93,28 +93,28 @@ export default {
       },
       {
         type: 'image',
-        src: '/images/UE_Meta/ClubHouse_GamePlayRoom.png',
+        src: 'images/UE_Meta/ClubHouse_GamePlayRoom.png',
         alt: 'ClubHouse GamePlayRoom',
         topText: '',
         bottomText: 'ClubHouse GamePlayRoom'
       },
       {
         type: 'image',
-        src: '/images/UE_Meta/GYM01.png',
+        src: 'images/UE_Meta/GYM01.png',
         alt: 'GYM01',
         topText: '',
         bottomText: 'GYM01'
       },
       {
         type: 'image',
-        src: '/images/UE_Meta/GYM04.png',
+        src: 'images/UE_Meta/GYM04.png',
         alt: 'GYM04',
         topText: '',
         bottomText: 'GYM04'
       },
       {
         type: 'image',
-        src: '/images/UE_Meta/GYM05.png',
+        src: 'images/UE_Meta/GYM05.png',
         alt: 'GYM05',
         topText: '',
         bottomText: 'GYM05'

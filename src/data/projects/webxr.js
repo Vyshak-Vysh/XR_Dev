@@ -6,7 +6,7 @@ export default {
   title: 'WebXR Cross-Platform XR Experience',
   role: 'Web XR Developer',
   types: ['WebXR', 'Browser-Based', 'Unity'],
-  cardImage: '/images/WebXR_Prj/WebXR_pic.png',
+  cardImage: 'images/WebXR_Prj/WebXR_pic.png',
   shortDescription: 'A browser-based desert-themed XR environment accessible without native installation, optimized for mobile, PC, and VR browsers.',
   tags: ['WebXR', 'AR', 'VR', 'Unity', 'Web3D', 'Cross-Platform'],
   // externalLink: 'https://drive.google.com/file/d/1_ZhkjfSrmrJwIFZcLBNW6vsCA_I1Zh2D/view?usp=sharing',
@@ -14,7 +14,7 @@ export default {
   // externalLinkTitle: 'WebXR Cross-Platform XR Experience',
   mainArt: {
     type: 'image',
-    src: '/images/WebXR_Prj/WebXR_pic.png',
+    src: 'images/WebXR_Prj/WebXR_pic.png',
     alt: 'WebXR Cross-Platform XR Experience',
     description: ''
   },
@@ -56,7 +56,7 @@ export default {
   gallery: [
       {
         type: 'video',
-        src: '/images/WebXR_Prj/WebXR_Video.mp4',
+        src: 'images/WebXR_Prj/WebXR_Video.mp4',
         alt: 'WebXR Experience Video',
         topText: '',
         bottomText: 'WebXR Cross-Platform Experience',

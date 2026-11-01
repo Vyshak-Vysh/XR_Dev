@@ -9,7 +9,7 @@ export default {
     <div class="about-content">
       <figure class="profile-photo">
         <img
-          src="/images/711321105188-VYSHAK V.jpg"
+          src="images/711321105188-VYSHAK V.jpg"
           alt="Vyshak V's Profile Picture"
           class="profile-img"
           loading="lazy"

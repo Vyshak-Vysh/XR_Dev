@@ -3,7 +3,7 @@ export default {
     show: true,
     slug: 'ai-ar-inspection',
     link: '/project/ai-ar-inspection',
-    cardImage: '/images/Robotic_ARM/Robotic_ARM.png',
+    cardImage: 'images/Robotic_ARM/Robotic_ARM.png',
     title: 'AI-Driven AR Inspection System' ,
     role: 'AR/VR Developer',
     types: ['Industrial AR', 'Mobile App', 'Unity'],
@@ -13,7 +13,7 @@ export default {
     citation:'',
     mainArt: {
       type: 'image',
-      src: '/images/Robotic_ARM/Robotic_ARM.png',
+      src: 'images/Robotic_ARM/Robotic_ARM.png',
       alt: 'AI-Driven AR Inspection System',
       description: ''
     },
@@ -56,31 +56,31 @@ export default {
     gallery: [
       {
         type: 'image',
-        src: '/images/Robotic_ARM/Vuforia Model.png',
+        src: 'images/Robotic_ARM/Vuforia Model.png',
         alt: 'Vuforia Model',
         bottomText: 'Vuforia Model'
       },
       {
         type: 'image',
-        src: '/images/Robotic_ARM/Inspection Results.png',
+        src: 'images/Robotic_ARM/Inspection Results.png',
         alt: 'Inspection Results',
         bottomText: 'Inspection Results'
       },
       {
         type: 'image',
-        src: '/images/Robotic_ARM/Realtime AR Model.png',
+        src: 'images/Robotic_ARM/Realtime AR Model.png',
         alt: 'Realtime AR Model',
         bottomText: 'Precision measurement overlays'
       },
       {
         type: 'image',
-        src: '/images/Robotic_ARM/analyzed_Capture.png',
+        src: 'images/Robotic_ARM/analyzed_Capture.png',
         alt: 'Analyzed Capture',
         bottomText: 'Analyzed Capture'
       },
       {
         type: 'image',
-        src: '/images/Robotic_ARM/Robotic_ARM_1.png',
+        src: 'images/Robotic_ARM/Robotic_ARM_1.png',
         alt: 'Robotic ARM',
         bottomText: 'Real-time deviation visualization'
       }
